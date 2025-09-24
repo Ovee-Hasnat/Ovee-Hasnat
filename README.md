@@ -16,7 +16,8 @@
 - 🌍 Always excited to collaborate on impactful projects and learn new things.  
 - 🫰 Fun fact: I get random business ideas at 2 AM 💡
 
-<hr style="border: 0.2px dashed #ccc;" />
+<!-- <hr style="border: 0.2px dashed #ccc;" /> -->
+<h1></h1>
 
 <h3 align="left">🤝 Let’s Connect & Collaborate</h3>
 <p align="left">
