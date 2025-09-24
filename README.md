@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ovee-hasnat&label=Profile%20views&color=0e75b6&style=flat" alt="ovee-hasnat" />
 </p>
 
----
+<h1></h1>
 
 - 🔭 Currently building **an ERP system** to streamline business operations.  
 - 🌱 Exploring the world of **Agentic AI** and its real-world applications.  
@@ -16,7 +16,6 @@
 - 🌍 Always excited to collaborate on impactful projects and learn new things.  
 - 🫰 Fun fact: I get random business ideas at 2 AM 💡
 
-<!-- <hr style="border: 0.2px dashed #ccc;" /> -->
 <h1></h1>
 
 <h3 align="left">🤝 Let’s Connect & Collaborate</h3>
@@ -31,7 +30,7 @@ Together, we can build something awesome 🚀
 </a>
 </p>
 
-<hr style="border: 0.2px dashed #ccc;" />
+<h1></h1>
 
 <h3 align="left">🧑‍💻 Languages & Tools</h3>
 <p align="left">
@@ -55,14 +54,15 @@ Together, we can build something awesome 🚀
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
 
-<hr style="border: 0.2px dashed #ccc;" />
+<h1></h1>
 
 <h3 align="left">🙏 Thanks for Visiting!</h3>
 <p align="left">
 Looking for a developer who can turn ideas into scalable solutions?  <br/> 
 I’m always open to exciting collaborations, freelance projects, and opportunities to grow.  
 </p>
-<p align="left">
+<h2></h2>
+<p align="center">
   <a href="mailto:hasnat.ovee@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hasnat-ovee"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.oveehasnat.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
