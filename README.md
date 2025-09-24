@@ -16,7 +16,7 @@
 - 🌍 Always excited to collaborate on impactful projects and learn new things.  
 - 🫰 Fun fact: I get random business ideas at 2 AM 💡
 
-<hr style="border: 0.5px dashed #ccc;" />
+<hr style="border: 0.2px dashed #ccc;" />
 
 <h3 align="left">🤝 Let’s Connect & Collaborate</h3>
 <p align="left">
@@ -30,7 +30,7 @@ Together, we can build something awesome 🚀
 </a>
 </p>
 
-<hr style="border: 0.5px dashed #ccc;" />
+<hr style="border: 0.2px dashed #ccc;" />
 
 <h3 align="left">🧑‍💻 Languages & Tools</h3>
 <p align="left">
@@ -54,7 +54,7 @@ Together, we can build something awesome 🚀
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
 
-<hr style="border: 0.5px dashed #ccc;" />
+<hr style="border: 0.2px dashed #ccc;" />
 
 <h3 align="left">🙏 Thanks for Visiting!</h3>
 <p align="left">
