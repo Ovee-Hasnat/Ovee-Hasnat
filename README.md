@@ -20,11 +20,11 @@
 
 <h3 align="left">🤝 Let’s Connect & Collaborate</h3>
 <p align="left">
-If you’re working on something exciting or just want to chat about tech, feel free to reach out.  
+If you’re working on something exciting or just want to chat about tech, feel free to reach out. <br/>  
 Together, we can build something awesome 🚀  
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/hasnat-ovee" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
 </a>
@@ -56,12 +56,12 @@ Together, we can build something awesome 🚀
 
 ---
 
-<h3 align="center">🙏 Thanks for Visiting!</h3>
-<p align="center">
-Looking for a developer who can turn ideas into scalable solutions?  
+<h3 align="left">🙏 Thanks for Visiting!</h3>
+<p align="left">
+Looking for a developer who can turn ideas into scalable solutions?  <br/> 
 I’m always open to exciting collaborations, freelance projects, and opportunities to grow.  
 </p>
-<p align="center">
+<p align="left">
   <a href="mailto:hasnat.ovee@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hasnat-ovee"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.oveehasnat.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
